@@ -1,4 +1,4 @@
-<style>
+
   .flx {
     display: flex;
     gap: 10px;
@@ -26,7 +26,7 @@
     background: hsl(215deg 79% 96%);
     border: 1px solid hsl(215deg 100% 50%);
   }
-</style>
+
 <h1 align="center">Hi 👋, I'm Md. Abbas Uddin</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="left"> <img
