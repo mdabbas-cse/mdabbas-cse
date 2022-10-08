@@ -1,33 +1,4 @@
-
-  .flx {
-    display: flex;
-    gap: 10px;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .language-tool {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;
-  }
-
-  .language-tool:hover {
-    background: hsl(215deg 79% 96%);
-    border: 1px solid hsl(215deg 100% 50%);
-  }
-
-<h1 align="center">Hi 👋, I'm Md. Abbas Uddin</h1>
+ <h1 align="center">Hi 👋, I'm Md. Abbas Uddin</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=mdabbas-cse&label=Profile%20views&color=0e75b6&style=flat"
