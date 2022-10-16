@@ -1,23 +1,20 @@
 ### About Me
-- [shahjalalshohag.com](https://shahjalalshohag.com/)
-- [linkedin/shahjalalshohag](https://www.linkedin.com/in/shahjalalshohag/)
-- [twitter/shahjalalsohag](https://twitter.com/shahjalalsohag)
-- [academy.shahjalalshohag.com](https://academy.shahjalalshohag.com/)
-- [blog.shahjalalshohag.com](https://blog.shahjalalshohag.com/home)
+- [LinkIn](https://www.linkedin.com/in/mdabbas-cse/)
+- [Facebook](https://www.facebook.com/gmabbas12125)
 
 ### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahjalalShohag&show_icons=true&count_private=true&theme=dark" alt="ShahjalalShohag" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mdabbas-cse&show_icons=true&count_private=true&theme=dark" alt="ShahjalalShohag" />
 
 ### My Stacks
-#### Languages: C++ | Python | Javascript | Typescript | Solidity 
+#### Languages: C | Python | Javascript | Typescript | PHP 
 
-#### Frontend: HTML | CSS | React | NextJS | Tailwind
+#### Frontend: HTML | CSS | React | NextJS | Tailwind | Bulma | Bootstrap
 
-#### Backend: Python | FastAPI | PostgreSQL | JWT Auth | Pandas | Pydantic | Sentry | Redis | Pytest
+#### Backend: Python | PHP | NodeJs
 
-#### Blockchain/Smart Contracts: Solidity | Javascript | Typescript | Web3.js | Python | Web3.py | Remix | Hardhat | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | ChainLink | Typechain | Alchemy | Infura | Ganache
+#### Blockchain: Javascript
 
-#### Others: Git | Docker | Latex | Linux | Vercel
+#### Others: Git | Linux 
 
 ## My Handles
  [<img src="https://img.shields.io/badge/ShahjalalShohag-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahjalal-shohag-394332156/)
@@ -34,4 +31,4 @@
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ShahjalalShohag&theme=react-dark)](https://github.com/ShahjalalShohag/github-readme-activity-graph)
  
  <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahjalalShohag&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabbas-cse&theme=dark&layout=compact&align=right&width=40%)](https://github.com/mdabbas-cse/github-readme-stats)
