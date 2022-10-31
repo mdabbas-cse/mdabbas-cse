@@ -6,8 +6,7 @@
     src="https://komarev.com/ghpvc/?username=mdabbas-cse&label=Profile%20views&color=0e75b6&style=flat"
     alt="mdabbas-cse" /> </p>
     
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=mdabbas-cse" alt="mdabbas-cse" /></a> </p>
+
       <a target="_blank" href="https://app.daily.dev/mdabbas_cse"><img align="right" src="https://api.daily.dev/devcards/e5560d551e0d41028b98cf262b8bc1df.png?r=huo" width="200" alt="MD. ABBAS UDDIN's Dev Card"/></a>
       </br>
 - 🔭 I’m currently working on **Bit-form**
