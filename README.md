@@ -1,395 +1,91 @@
-<h1 align="center">Hi 👋, I'm Md. Abbas Uddin</h1>
-<h3 align="center">Full Stack Developer</h3>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md Abbas Uddin</h1>
+<h3 align="center">I'm a Professional Full Stack Developer from Bangladesh.</h3>
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=mdabbas-cse&label=Profile%20views&color=0e75b6&style=flat"
-    alt="mdabbas-cse" /> </p>
-   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=mdabbas-cse" alt="mdabbas-cse" /></a> </p>
-        <p>
-      <a target="_blank" href="https://app.daily.dev/mdabbas_cse"><img align="right" src="https://api.daily.dev/devcards/e5560d551e0d41028b98cf262b8bc1df.png?r=huo" width="200" alt="MD. ABBAS UDDIN's Dev Card"/></a>
-</p>
-- 🔭 I’m currently working on **Bit-form**
-- 🌱 I’m currently learning **Python for Data Science & Machine Learing**
-- 💬 Ask me about **PHP, JavaScript, Python, React, MySQL, MongoDB**
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mdabbas-cse">
+</a>
+<a href="https://github.com/mdabbas-cse?tab=followers"><img src="https://img.shields.io/github/followers/mdabbas-cse?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<a target="_blank" href="https://app.daily.dev/mdabbas_cse"><img align="right" src="https://api.daily.dev/devcards/e5560d551e0d41028b98cf262b8bc1df.png?r=huo" width="200" alt="MD. ABBAS UDDIN's Dev Card"/></a>
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[Bit Form](https://wordpress.org/plugins/bit-form/)**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+
 - 📫 How to reach me **gmabbas44@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex;
-gap: 10px;
-flex-direction: row;
-flex-wrap: wrap;
-justify-content: center;
-align-items: center;">
-  <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://codepen.io/mdabbas-cse" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="mdabbas-cse" height="30" width="40" /></a>
-  <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://linkedin.com/in/mdabbascse" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="mdabbascse" height="30" width="40" /></a>
-  <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://codesandbox.com/mdabbas-cse" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
-      alt="mdabbas-cse" height="30" width="40" /></a>
-  <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://fb.com/gmabbas12125" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="gmabbas12125" height="30" width="40" /></a>
-  <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.hackerrank.com/gmabbas44" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="gmabbas44" height="30" width="40" /></a>
-  <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.leetcode.com/mdabbascse" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="mdabbascse" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex;
-    gap: 10px;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;">
-  <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>
-  <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://bulma.io/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"
-      alt="bulma" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-      alt="cypress" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-      height="40" /> </a> <a style="display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-      width: 50px;
-      height: 50px;
-      border: 1px solid #f0f0f0;
-      border-radius: 8px;
-      padding: 10px;
-      transition: .5s all ease;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-    style="display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-      width: 50px;
-      height: 50px;
-      border: 1px solid #f0f0f0;
-      border-radius: 8px;
-      padding: 10px;
-      transition: .5s all ease;" href="https://graphql.org" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a> <a
-    style="display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-      width: 50px;
-      height: 50px;
-      border: 1px solid #f0f0f0;
-      border-radius: 8px;
-      padding: 10px;
-      transition: .5s all ease;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-      width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
-      height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40" />
-  </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="40" height="40" /> </a> <a style="display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 50px;
-    height: 50px;
-    border: 1px solid #f0f0f0;
-    border-radius: 8px;
-    padding: 10px;
-    transition: .5s all ease;" href="https://zapier.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
-</p>
 
 
+## 🚀 My Stack:
+<h3>Frontend Development</h3>
 
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabbas-cse&show_icons=true&locale=en&layout=compact"
-    alt="mdabbas-cse" /></p>
-<p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mdabbas-cse&show_icons=true&locale=en" alt="mdabbas-cse" />
+<p>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+   
 </p>
+<h3>Backend Development and Framework<h3>
+<p>
+<p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+    <a style="padding-right:8px;" href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  width="40" height="40"/> </a> 
+     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+</p>
+<h3>Database</h3>
+<p>
+ <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+</p>
+<h3>Programming Languages</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</p>
+
+<h3>Tools</h3>
+<p>
+ <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+<br/>
+
+
+<p align="center">
+    <a href="https://github.com/mdabbas-cse/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdabbas-cse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/mdabbas-cse/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdabbas-cse&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mdabbas-cse/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabbas-cse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/mdabbas-cse/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdabbas-cse&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/mdabbascse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdabbascse" height="30" width="40" /></a>
+<a href="https://fb.com/gmabbas12125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gmabbas12125" height="30" width="40" /></a>
+</p>
+
