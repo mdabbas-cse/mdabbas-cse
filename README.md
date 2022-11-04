@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **[Bit Form](https://wordpress.org/plugins/bit-form/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms**, and **[Develop a PHP MVC Framework](https://github.com/mdabbas-cse/php-mvc-framework)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -30,6 +30,7 @@
 <p>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
@@ -88,4 +89,3 @@
 <a href="https://linkedin.com/in/mdabbascse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdabbascse" height="30" width="40" /></a>
 <a href="https://fb.com/gmabbas12125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gmabbas12125" height="30" width="40" /></a>
 </p>
-
