@@ -9,7 +9,7 @@
 </a>
 <a href="https://github.com/mdabbas-cse?tab=followers"><img src="https://img.shields.io/github/followers/mdabbas-cse?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<a target="_blank" href="https://app.daily.dev/mdabbas_cse"><img align="right" src="https://api.daily.dev/devcards/e5560d551e0d41028b98cf262b8bc1df.png?r=huo" width="200" alt="MD. ABBAS UDDIN's Dev Card"/></a>
+<a target="_blank" href="https://app.daily.dev/mdabbas_cse"><img align="right" src="https://api.daily.dev/devcards/e5560d551e0d41028b98cf262b8bc1df.png?r=huo" width="20%" alt="MD. ABBAS UDDIN's Dev Card"/></a>
 
 ## 🙋‍♂️ About Me
 
