@@ -29,25 +29,25 @@
 <h3>Frontend Development</h3>
 
 <p>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img width="40" height="40" alt="html logo" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img width="40" height="40" alt="css logo" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img width="40" height="40" alt="java script logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img width="40" height="40" alt="react logo" src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img width="40" height="40" alt="bootstrap logo" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img width="40" height="40" alt="redux logo" src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
    
 </p>
 <h3>Backend Development and Framework<h3>
 <p>
 <p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-    <a style="padding-right:8px;" href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  width="40" height="40"/> </a> 
+    <a style="padding-right:8px;" href="https://www.php.net" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  width="40" height="40"/> </a> 
      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img width="40" height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
 </p>
 <h3>Database</h3>
 <p>
- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+ <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img width="40" height="40" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 <h3>Programming Languages</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
@@ -55,14 +55,14 @@
 
 <h3>Tools</h3>
 <p>
- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+ <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img width="40" height="40" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
 <h3>Todo Something </h3>
 <p>
- <a href="https://codepen.io/mdabbas-cse" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="code-pen" width="45" height="45"/> </a>   
+ <a href="https://codepen.io/mdabbas-cse" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="code-pen" width="40" height="40"/> </a>   
  <a href="https://codesandbox.io/u/mdabbas-cse" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/simple-icons:codesandbox.svg" alt="code sendbox" width="40" height="40"/> </a>
 </p>
 <br/>
@@ -80,6 +80,7 @@
 
   <br/>
     <a href="https://github.com/mdabbas-cse/github-readme-stats"><img alt="md abbas uddin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdabbas-cse&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br />
   <a href="https://github.com/mdabbas-cse/github-readme-stats"><img alt="md abbas uddin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabbas-cse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
