@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md Abbas Uddin</h1>
-<h3 align="center">I'm a Professional Full Stack Web Application Developer from Bangladesh.</h3>
+<h3 align="center">I'm a Professional Full Stack Developer from Bangladesh.</h3>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -9,7 +9,8 @@
 </a>
 <a href="https://github.com/mdabbas-cse?tab=followers"><img src="https://img.shields.io/github/followers/mdabbas-cse?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<a target="_blank" href="https://app.daily.dev/mdabbas_cse"><img align="right" src="https://api.daily.dev/devcards/e5560d551e0d41028b98cf262b8bc1df.png?r=huo" width="20%" alt="MD. ABBAS UDDIN's Dev Card"/></a>
+<a target="_blank" href="https://app.daily.dev/mdabbas_cse"><img align="right" src="https://api.daily.dev/devcards/e5560d551e0d41028b98cf262b8bc1df.png?r=vgw" width="200" alt="MD. ABBAS UDDIN's Dev Card"/></a>
+
 
 ## 🙋‍♂️ About Me
 
@@ -19,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
 - 📫 How to reach me **gmabbas44@gmail.com**
 
@@ -58,6 +59,12 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
+
+<h3>Todo Something </h3>
+<p>
+ <a href="https://codepen.io/mdabbas-cse" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="code-pen" width="45" height="45"/> </a>   
+ <a href="https://codesandbox.io/u/mdabbas-cse" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/simple-icons:codesandbox.svg" alt="code sendbox" width="40" height="40"/> </a>
+</p>
 <br/>
 
 
@@ -66,6 +73,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="md abbas uddin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdabbas-cse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+
 
 ## 📊 My Github Stats
 
@@ -89,3 +98,4 @@
 <a href="https://linkedin.com/in/mdabbascse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdabbascse" height="30" width="40" /></a>
 <a href="https://fb.com/gmabbas12125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gmabbas12125" height="30" width="40" /></a>
 </p>
+
