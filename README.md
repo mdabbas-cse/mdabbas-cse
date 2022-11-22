@@ -80,7 +80,7 @@
 
   <br/>
     <a href="https://github.com/mdabbas-cse/github-readme-stats"><img alt="md abbas uddin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdabbas-cse&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <br />
+   
   <a href="https://github.com/mdabbas-cse/github-readme-stats"><img alt="md abbas uddin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabbas-cse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
