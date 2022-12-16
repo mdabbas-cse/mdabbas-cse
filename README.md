@@ -25,7 +25,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mdabbas-cse.github.io/)**
 
 - 📫 How to reach me **gmabbas44@gmail.com**
 
@@ -95,6 +95,8 @@
 <br/>
 
 <a href="https://github.com/mdabbas-cse/github-readme-activity-graph"><img alt="md abbas uddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdabbas-cse&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mdabbas-cse)](https://github.com/mdabbas-cse/github-readme-activity-graph)
 
 <br/>
 <br/>
