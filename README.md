@@ -92,14 +92,7 @@
 
 
 <br/>
-<br/>
 
-<a href="https://github.com/mdabbas-cse/github-readme-activity-graph"><img alt="md abbas uddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdabbas-cse&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mdabbas-cse)](https://github.com/mdabbas-cse/github-readme-activity-graph)
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
