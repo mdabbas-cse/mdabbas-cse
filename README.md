@@ -14,7 +14,7 @@
 
 
 
-<a target="_blank" href="https://app.daily.dev/mdabbas_cse"><img align="right" src="https://api.daily.dev/devcards/e5560d551e0d41028b98cf262b8bc1df.png?r=vgw" width="200" alt="MD. ABBAS UDDIN's Dev Card"/></a>
+<a target="_blank" href="https://app.daily.dev/mdabbas_cse"><img align="right" src="https://api.daily.dev/devcards/v2/jepycbUoMEOTbA5knHuM7.png?type=default&r=d7c" width="20%" alt="MD. ABBAS UDDIN's Dev Card"/></a>
 
 
 ## 🙋‍♂️ About Me
